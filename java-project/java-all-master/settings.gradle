@@ -1,0 +1,9 @@
+rootProject.name = 'all'
+include 'java-reflection-annotations'
+include 'java-security-jwt'
+include 'jpa-hibernate-one-to-one'
+include 'jpa-hibernate-one-to-many'
+include 'jpa-hibernate-many-to-many'
+include 'java-thread-pool-executor'
+include 'java-threadpoolexecutor'
+
